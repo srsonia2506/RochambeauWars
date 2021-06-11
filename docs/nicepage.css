@@ -33787,8 +33787,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
-.ppt-embed{
+.embed{
   text-align: center;
+  margin: 30px 0 0 0;
 }
 
  /*begin-variables base-font-size*/
